@@ -17,7 +17,7 @@ My personal email is jaifarmer99@gmail.com
 
 <h2>Ideal Job</h2>
 <p></p>
-<a href="https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout"></a>
+<a href="https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout">Seek Website Link</a>
  <p style="text-align:center;"><img src="https://i.imgur.com/awj07Ri.png" alt="center" alt="Image" height="1000" width="600" /> </p>
 <p>The job entails specialising in penetration testing and creating high detailed reports on vulnerabilities a business might have and to create solutions for the cyber security problems. This job appeals to me because it includes the things I want to learn such as Java, Python and using penetration systems to test the security of websites and applications, It also has very high salary.
 The Skills I would need for this job is a high level of JavaScript, Objective C and Python, this role needs a high level of problem solving skill, as you will be trying to penetrate systems as well as creating and improving them. The Qualifications I would need for this job would be to have at least an industry certification in one of the following: SANS, CREST CRT/CCT or OSCE and to know the vulnerabilities regarding to OWASP and SANS.  I would need experience in performing internal and external penetration testing, web application testing and mobile penetration testing.
