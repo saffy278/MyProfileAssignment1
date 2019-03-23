@@ -1,15 +1,17 @@
 # My Profile
 <h2> Personal Information </h2>
-<p>Hi my name is Jai Farmer</p>
-<p>My student number is S3762742 </p>
-  <p>My email address is s3762742@student.rmit.edu.au</p> 
+<p>My name is Jai Farmer and my number is S3762742</p>
+  <p>My RMIT email address is s3762742@student.rmit.edu.au</p> 
     <p>My personal email is jaifarmer99@gmail.com</p>
 <p> I live in the Mount Eliza green belt in Southeast Victoria.</p>
 <p> I left school after finishing year 10 and then completed my Diploma of Information Technology. The Diploma gave me a great introduction to project management, coding in Javascript, HTML and website design. This gave me enthusiasm to apply to RMIT and pursue a Bachelor in IT. </p>
 <p> My personal interest include computer games, basketball, fantasy and sci fi movies, spending time with my friends especially my girlfriend.</p>
 <p>I have a special condition called heterochromia, which means one of my eyes has a different colour in it, I also have 20/20 hindsight.</p>
 
-<p> I have many interests in IT such as Games, Robots, AI, Transportation, SpaceX, Hacking(Ethical) and VR. Anything to do with games I am generally interested in, the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day, I remember having to install it with at least 5 disks(took a whole day to download). World of Warcraft was pretty much my childhood can as all my cousins use to play and we would play it for the whole day. I have a lot of IT experience as I been using it all my life, I can understand most aspects of IT world as I am quite interested in the topic.</p>
+<h2>Interest in IT</h2>
+<p> I have a wide interest in many IT areas such as game development, robotics, Articial intelligence, virtual reality, SpaceX, hacking(Ethical) and drones. I have a special interest in playing computer games such as World of Warcraft, Starcraft, Diablo, Counter Strike, Dota2 and Sid Meier's Civilization V.</p>
+<p>the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day. I remember having to install it with at least 5 disks(and it took a whole day to download the game). World of Warcraft was my favourite game as my cousins also played with me and completed the content together.</p>
+<p></p>
 <p>I chose RMIT because it looked the most promising out of all the Universities I saw online, as it has one of the most cool looking campuses in the world in my opinion. I also heard from friends they are one of the best universities and my Melbourne and they really loved studying here.</p>
 <p>I expect to learn a more in-depth view of the IT world and, and the opportunities that it can give me such as a bountiful career. I hope to become an expert in Java and other programming languages such as python, C++ and C#, I also aspire to become a skilled cyber security person.</p>
 <p>https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout</p>
