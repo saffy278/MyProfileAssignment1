@@ -7,7 +7,8 @@
 <p>I chose RMIT because it looked the most promising out of all the Universities I saw online, as it has one of the most cool looking campuses in the world in my opinion. I also heard from friends they are one of the best universities and my Melbourne and they really loved studying here.</p>
 <p>I expect to learn a more in-depth view of the IT world and, and the opportunities that it can give me such as a bountiful career. I hope to become an expert in Java and other programming languages such as python, C++ and C#, I also aspire to become a skilled cyber security person.</p>
 <p>https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout</p>
-<p><img src="https://imgur.com/awj07Ri" alt="" /></p>
+https://i.imgur.com/awj07Ri.png
+<p><img src="https://i.imgur.com/awj07Ri.png" alt="" /></p>
 <p>The job entails in specialising in penetration testing and creating high detailed reports on vulnerabilities a business might have and to create solutions for the cyber security problems. This job appeals to me because it includes the things I want to learn such as Java, Python and using penetration systems to test the security of websites and applications, It also has very high salary.
 The Skills I would need for this job is a high level of JavaScript, Objective C and Python, this role needs a high level of problem solving skill, as you will be trying to penetrate systems as well as creating and improving them. The Qualifications I would need for this job would be to have at least an industry certification in one of the following: SANS, CREST CRT/CCT or OSCE and to know the vulnerabilities regarding to OWASP and SANS.  I would need experience in performing internal and external penetration testing, web application testing and mobile penetration testing.
  </p>
