@@ -12,8 +12,10 @@
 <p> I have a wide interest in many IT areas such as game development, robotics, Articial intelligence, virtual reality, SpaceX, hacking(Ethical) and drones. I have a special interest in playing computer games such as World of Warcraft, Starcraft, Diablo, Counter Strike, Dota2 and Sid Meier's Civilization V.</p>
 <p>the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day. I remember having to install it with at least 5 disks(and it took a whole day to download the game). World of Warcraft was my favourite game as my cousins also played with me and completed the content together.</p>
 <p></p>
-<p>I chose RMIT because it looked the most promising out of all the Universities I saw online, as it has one of the most cool looking campuses in the world in my opinion. I also heard from friends they are one of the best universities and my Melbourne and they really loved studying here.</p>
-<p>I expect to learn a more in-depth view of the IT world and, and the opportunities that it can give me such as a bountiful career. I hope to become an expert in Java and other programming languages such as python, C++ and C#, I also aspire to become a skilled cyber security person.</p>
+<p>I chose RMIT because the IT course had a great reputation and a good campus. I also heard from my friends that RMIT is one of the best universities in Melbourne for IT.</p>
+<p>I expect to learn a more in-depth view of the IT world and I hope that the opportunities that it can give me lead to a bountiful career. I hope to become an expert in Java and other programming languages such as python, C++ and C#. I also aspire to become a skilled cyber security person.</p>
+
+<h2>Ideal Job</h2>
 <p>https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout</p>
  <p style="text-align:center;"><img src="https://i.imgur.com/awj07Ri.png" alt="center" alt="Image" height="1000" width="600" /> </p>
 <p>The job entails in specialising in penetration testing and creating high detailed reports on vulnerabilities a business might have and to create solutions for the cyber security problems. This job appeals to me because it includes the things I want to learn such as Java, Python and using penetration systems to test the security of websites and applications, It also has very high salary.
