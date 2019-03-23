@@ -1,8 +1,14 @@
 # My Profile
-<p>Hi my name is Jai I’m from Melbourne, Australia and I live in a place called Mount Eliza. Some stuff you should know about me is that I love games, sports, movies, friends(girlfriend btw), dogs and anime, one fact about me that would be interesting is that I have more than a years played time World of Warcraft(very sad I know). I left high school after I finished Year 10 and went to do my Diploma of IT which I completed in 2018. 
-  My student number is S3762742 
-  My email address is s3762742@student.rmit.edu.au 
-  My personal email is jaifarmer99@gmail.com.</p>
+<h2> Personal Information </h2>
+<p>Hi my name is Jai Farmer</p>
+<p>My student number is S3762742 </p>
+  <p>My email address is s3762742@student.rmit.edu.au</p> 
+    <p>My personal email is jaifarmer99@gmail.com</p>
+<p> I live in the Mount Eliza green belt in Southeast Victoria.</p>
+<p> I left school after finishing year 10 and then completed my Diploma of Information Technology. The Diploma gave me a great introduction to project management, coding in Javascript, HTML and website design. This gave me enthusiasm to apply to RMIT and pursue a Bachelor in IT. </p>
+<p> My personal interest include computer games, basketball, fantasy and sci fi movies, spending time with my friends especially my girlfriend.</p>
+<p>I have a special condition called heterochromia, which means one of my eyes has a different colour in it, I also have 20/20 hindsight.</p>
+
 <p> I have many interests in IT such as Games, Robots, AI, Transportation, SpaceX, Hacking(Ethical) and VR. Anything to do with games I am generally interested in, the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day, I remember having to install it with at least 5 disks(took a whole day to download). World of Warcraft was pretty much my childhood can as all my cousins use to play and we would play it for the whole day. I have a lot of IT experience as I been using it all my life, I can understand most aspects of IT world as I am quite interested in the topic.</p>
 <p>I chose RMIT because it looked the most promising out of all the Universities I saw online, as it has one of the most cool looking campuses in the world in my opinion. I also heard from friends they are one of the best universities and my Melbourne and they really loved studying here.</p>
 <p>I expect to learn a more in-depth view of the IT world and, and the opportunities that it can give me such as a bountiful career. I hope to become an expert in Java and other programming languages such as python, C++ and C#, I also aspire to become a skilled cyber security person.</p>
