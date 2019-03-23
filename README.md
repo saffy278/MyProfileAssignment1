@@ -14,6 +14,13 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
  <p>The skills I currently have is beginner knowledge in Python and JavaScript as well as having good knowledge on how computers work, and can use most software for work purposes. I currently know nothing about cyber security and I am very interested in trying to learn it and understand how it all works. I currently have no experience in the IT field for a work point of view, however I have been using computers all my life and continue to use them on a daily basis.
 I will need to improve my skills in JavaScript and Python greatly and start to understand how cyber security works but using one of my IT electives next year to study it in greater detail. I will then try to do an industry cyber security course(SANS) in order to learn the advanced methods of penetration testing and how it works in the job industry. I am also interested in doing a course in Ethical Hacking as I believe it would help greatly in the cyber security spectrum.
 </p>
- <p></p>
- <p></p>
- <p></p>
+ <p>The result for the Myers-Briggs test was ENFJ-A, I used the https://www.16personalities.com/ website.</p>
+ <p> <img src="https://i.imgur.com/KaugudL.png" alt="center" alt="Image" /> </p>
+ <p>The result for the online learning style test is, Jai's scores:</p>
+<p>Auditory: 30%</p>
+<p>Visual: 35%</p>
+<p>Tactile: 35%</p>
+
+
+<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
+
