@@ -1,8 +1,8 @@
 # My Profile
 <h2> Personal Information </h2>
 <p>My name is Jai Farmer and my number is S3762742</p>
-  <p>My RMIT email address is s3762742@student.rmit.edu.au</p> 
-    <p>My personal email is jaifarmer99@gmail.com</p>
+<p>My RMIT email address is s3762742@student.rmit.edu.au</p> 
+My personal email is jaifarmer99@gmail.com
 <p> I live in the Mount Eliza green belt in Southeast Victoria.</p>
 <p> I left school after finishing year 10 and then completed my Diploma of Information Technology. The Diploma gave me a great introduction to project management, coding in Javascript, HTML and website design. This gave me enthusiasm to apply to RMIT and pursue a Bachelor in IT. </p>
 <p> My personal interest include computer games, basketball, fantasy and sci fi movies, spending time with my friends especially my girlfriend.</p>
