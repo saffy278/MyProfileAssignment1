@@ -26,7 +26,8 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
 I will need to improve my skills in JavaScript and Python greatly and start to understand how cyber security works but using one of my IT electives next year to study it in greater detail. I will then try to do an industry cyber security course(SANS) in order to learn the advanced methods of penetration testing and how it works in the job industry. I am also interested in doing a course in Ethical Hacking as I believe it would help greatly in the cyber security field.
 </p>
 <h2> Person Profile </h2>
- <p>The result for my Myers-Briggs test was ENFJ-A, which gives me an idea of what traits i have. In the results of the Myers-Briggs test it stated i exceled at picking up on values, simply because shared values are what creat harmony, another trait would be that i can be quite extroverted to seek harmonious relationships.</p>
+ <p>The result for my Myers-Briggs test was ENFJ-A(Extraversion, Intuition, Feeling, Judgement). I believe this is reasonably accurate as I am certainly more extravoerted than introverted and enjoy spending time with my friends in person and keeping up with what is happening in their lives. Being more extravortedr can be a bit of a distraction though when you need to settle down and get work done as you are wodnering what else you could be doing with your friends. I do think I rely on intuition and my gut feeling to make decisions as I want to make sure something feels right before I decide to investigate further. So the test was interesting and worthwhile for anyone to get some ideas about how their mind works. </p>
+ 
 <a href="https://www.16personalities.com/">Myers-Briggs Test</a>
 
 <p> <img src="https://i.imgur.com/KaugudL.png" alt="center" alt="Image" /> </p>
