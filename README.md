@@ -1,4 +1,4 @@
-# My Profile
+<center><h1>My Profile</h1></center>
 <h2> Personal Information </h2>
 <p>My name is Jai Farmer and my number is S3762742</p>
 <p>My RMIT email address is s3762742@student.rmit.edu.au</p> 
