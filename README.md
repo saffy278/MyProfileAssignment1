@@ -26,9 +26,11 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
 I will need to improve my skills in JavaScript and Python greatly and start to understand how cyber security works but using one of my IT electives next year to study it in greater detail. I will then try to do an industry cyber security course(SANS) in order to learn the advanced methods of penetration testing and how it works in the job industry. I am also interested in doing a course in Ethical Hacking as I believe it would help greatly in the cyber security field.
 </p>
 <h2> Person Profile </h2>
- <p>The result for the Myers-Briggs test was ENFJ-A, I used the https://www.16personalities.com/ website.</p>
- <p> <img src="https://i.imgur.com/KaugudL.png" alt="center" alt="Image" /> </p>
- <p>The result for the online learning style test is, Jai's scores:</p>
+ <p>The result for my Myers-Briggs test was ENFJ-A, which gives me an idea of what traits i have. In the results of the Myers-Briggs test it stated i exceled at picking up on values, simply because shared values are what creat harmony, another trait would be that i can be quite extroverted to seek harmonious relationships.</p>
+<a href="https://www.16personalities.com/">Myers-Briggs Test</a>
+
+<p> <img src="https://i.imgur.com/KaugudL.png" alt="center" alt="Image" /> </p>
+<p>The result for the online learning style test is, Jai's scores:</p>
 <p>Auditory: 30%</p>
 <p>Visual: 35%</p>
 <p>Tactile: 35%</p>
@@ -46,20 +48,26 @@ When forming a team I should now show better learning habits as in to create a b
 <p>The project I will be creating will be an application that you can use on any device, however it will be mainly  focused on android and ios. The goal for this project is to create a functional cyber security app that tests the levels of security for various applications or websites. Its main appeal would be to have an application on your phone that scan all your data so to see if there any viruses or threats.
 </p>
 <p>The motivation comes from being interested in the cyber security aspect of IT, as it can be very interesting and cool at times. I have always been very interested in hacking as it is kind of mysterious and people don’t really know how it works.Allegedly at school, we always used software to bypass the security that the school had installed on their network to play games. This is when my motivation and interested started into the cyber security of computers. </p>
+
 <p>The features that this product will include: The ability to identify possible flaws in applications, websites, passwords and even just from everyday life. This will to try solve the problems people can have online and just security issues in general.</p>
+
 <p>The main focus of this app will try to reduce threats and risks that you may face in your everyday life, it will start by offering simple advice of security about passwords and all the beginner stuff that comes with security.</p>
+
 <p>It will also try to warn you about problems that it can currently see on a website or an application your on, for example if you are on a website and there is a YouTube link it will see if it is a legit link e.g. if its www.youtub.com/aqfis827  it will flag it.</p>
+
 <p>It will also warn you of unnecessary software you have installed on your device, such as a game you have played in 2 years however it using 25 gigs of data.</p>
+
 <p>The features of this app can be endless, however its main focus will be based around security online and keeping its users safe.This application will try to appeal to most of the market as it can be used in every circumstance.</p>
 
 <p>The software I would have to create is an advanced scanning software that checks inconsistencies within code/websites and apps that could be potential threats. (discuss about software that compares to my project) </p>
 
 <p>The skills I would need to build the project would be, skills in Java and skills in cyber security. The skills in cyber security will take a long time to obtain however, learning Java should not take long.</p>
+
 <p>The software I would have to create would be very complicated as it would have to scan through applications or websites to check for potential threats using its own virus scanning software.</p>
 
 <p>If the project were to be successful i believe it would be an application that 			would be very popular if it could detect all the potential problems within your 		phone with one button. </p>
+
 <p>The original problem I had, was needing to download 		all these suspicious looking software to check my computer for any problems 		and generally usually did the opposite of solving the problem. The impact that 		this development will have is to provide a solution for easy and simple virus/threat checking for devices.</p>
-</p>
-<p></p>
-<p></p>
+
+
 
