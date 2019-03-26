@@ -61,14 +61,14 @@ When forming a team I should now consider these newly identified traits, as I be
 
 
 
-<h3>Desciption</h3>
+<h3>Description</h3>
 
 <p>I believe that cybersecurity is a kind of mysterious area of the computer world and people don’t really know how it works. Therefore, the features of my CyberBuddy Software will need to be very straight forward and I will build several stages as I release new features over time. The first stage is to support safe online behaviour with prompts and checks as users click on links and travel around their online world. This support stage, once successful, will then migrate to a more sophisticated Cyber Security Detection Application that includes:</p>
 <ul>
  <li>Simple to use interface with simple touch & click menu for mobile devices</li>
  <li>Be able to stress test your own websites and/or software used to see if and how it can be hacked,</li>
  <li>Write a Report identifying those vulnerabilities in plain English,</li>
- <li>Highlighting any software or methods being used that are ptoentially dangerous,</li>
+ <li>Highlighting any software or methods being used that are potentially dangerous,</li>
  <li>Provide a Security Threat Score - say - out of 10 points so simple to understand,</li>
  <li>Provide advice on what could be done to improve the security score</li>
  </ul>
