@@ -1,5 +1,5 @@
 <center><h1>My Profile</h1></center>
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="http://thepatternlibrary.com/img/ao.gif" width="1000" height="100">
 <h2> Personal Information </h2>
 <p>My name is Jai Farmer and my number is S3762742</p>
 <p>My RMIT email address is s3762742@student.rmit.edu.au</p> 
