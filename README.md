@@ -41,9 +41,9 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
 <p>Tactile: 35%</p>
 
 
-<p>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml</p>
+<a href = http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml>Learning Styles Test</a>
 <p> I chose to do a creativity course for my third test from testmycreativity.com and managed to get a creativity score of 60.65.</p>
-<p>http://www.testmycreativity.com/</p>
+<a href ="http://www.testmycreativity.com/">Creativity Test</a?
 <p><img src="https://i.imgur.com/2VcTipR.png" alt="center" alt="Image" /> </p>
 <p>The results of these tests give me a good idea of how I should work within a team as it shows how I do well in some areas and also tells me where I have weaknesses. 
 The results tell me that I am more of a leader than a follower as I like to take initiative and take order in what I’m doing. I also learn better visually rather than through auditory which helps me better understand how I learn.
