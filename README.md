@@ -18,11 +18,12 @@ My personal email is jaifarmer99@gmail.com
 <img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2>Ideal Job</h2>
 <p></p>
-<a href="https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout">Seek Website Link</a>
- <p style="text-align:center;"><img src="https://i.imgur.com/awj07Ri.png" alt="center" alt="Image" height="1000" width="600" /> </p>
+
 <p>The job entails specialising in penetration testing and creating highly detailed reports on vulnerabilities a business might have and to create solutions for the cybersecurity problems. This job appeals to me because it includes the things I want to learn such as Java, Python and using penetration systems to test the security of websites and applications, It also has a very high salary.
 The Skills I would need for this job is a high level of JavaScript, Objective C and Python, this role needs a high level of problem-solving skill, as you will be trying to penetrate systems as well as creating and improving them. The Qualifications I would need for this job would be to have at least an industry certification in one of the following: SANS, CREST CRT/CCT or OSCE and to know the vulnerabilities regarding OWASP and SANS.  I would need experience in performing internal and external penetration testing, web application testing and mobile penetration testing.
  </p>
+ <a href="https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout">Seek Website Link</a>
+ <p style="text-align:center;"><img src="https://i.imgur.com/awj07Ri.png" alt="center" alt="Image" height="1000" width="600" /> </p>
  <p>The skills I currently have is beginner knowledge in Python and JavaScript as well as having good knowledge of how computers work, and can use understand and use most software. I currently know nothing about cyber security and I am very interested in trying to learn it and understand how it all works. I currently have no experience in the IT field for a work point of view however, I have been using computers all my life and continue to use them on a daily basis.</p>
  
 <p>I will need to improve my skills in JavaScript and Python greatly and start to understand how cybersecurity works but using one of my IT electives next year to study it in greater detail. I will then try to do an industry cybersecurity course(SANS) in order to learn the advanced methods of penetration testing and how it works in the job industry. I am also interested in doing a course in Ethical Hacking as I believe it would help greatly in the cyber security field.
