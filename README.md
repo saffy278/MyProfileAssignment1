@@ -6,12 +6,12 @@
 My personal email is jaifarmer99@gmail.com
 <p> I live in the Mount Eliza green belt in Southeast Victoria.</p>
 <p> I left school after finishing year 10 and then completed my Diploma in Information Technology. The Diploma gave me a great introduction to project management, coding in Javascript, HTML and website design. This gave me the enthusiasm to apply to RMIT and pursue a Bachelor in IT. </p>
-<p> My personal interest include computer games, basketball, fantasy and sci-fi movies, spending time with my friends especially my girlfriend.</p>
+<p> My personal interests include computer games, basketball, fantasy and sci-fi movies, spending time with my friends especially my girlfriend.</p>
 <p>I have a special condition called heterochromia, which means one of my eyes has a different colour in it, I also have 20/20 hindsight.</p>
 <img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2>Interest in IT</h2>
 <p> I have a wide interest in many IT areas such as game development, robotics, Artificial intelligence, virtual reality, SpaceX, hacking(Ethical) and drones. I have a special interest in playing computer games such as World of Warcraft, Starcraft, Diablo, Counter-Strike, Dota2 and Sid Meier's Civilization V.</p>
-<p>the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day. I remember having to install it with at least 5 disks(and it took a whole day to download the game). World of Warcraft was my favourite game as my cousins also played with me and completed the content together.</p>
+<p>The first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day. I remember having to install it with at least 5 disks(and it took a whole day to download the game). World of Warcraft was my favourite game as my cousins also played with me and completed the content together.</p>
 <p></p>
 <p>I chose RMIT because the IT course had a great reputation and a good campus. I also heard from my friends that RMIT is one of the best universities in Melbourne for IT.</p>
 <p>I expect to learn a more in-depth view of the IT world and I hope that the opportunities that it can give me lead to a bountiful career. I hope to become an expert in Java and other programming languages such as Python, C++ and C#. I also aspire to become a skilled cybersecurity person.</p>
