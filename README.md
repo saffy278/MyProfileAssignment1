@@ -1,4 +1,4 @@
-<center><h1>My Profile</h1></center>
+<center><h1>Jai's Profile</h1></center>
 <img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2> Personal Information </h2>
 <p>My name is Jai Farmer and my number is S3762742</p>
@@ -8,14 +8,14 @@ My personal email is jaifarmer99@gmail.com
 <p> I left school after finishing year 10 and then completed my Diploma in Information Technology. The Diploma gave me a great introduction to project management, coding in Javascript, HTML and website design. This gave me the enthusiasm to apply to RMIT and pursue a Bachelor in IT. </p>
 <p> My personal interest include computer games, basketball, fantasy and sci-fi movies, spending time with my friends especially my girlfriend.</p>
 <p>I have a special condition called heterochromia, which means one of my eyes has a different colour in it, I also have 20/20 hindsight.</p>
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2>Interest in IT</h2>
 <p> I have a wide interest in many IT areas such as game development, robotics, Artificial intelligence, virtual reality, SpaceX, hacking(Ethical) and drones. I have a special interest in playing computer games such as World of Warcraft, Starcraft, Diablo, Counter-Strike, Dota2 and Sid Meier's Civilization V.</p>
 <p>the first time I was interested in IT, was when my dad bought a family computer and bought a copy of WoW which was a huge game back in the day. I remember having to install it with at least 5 disks(and it took a whole day to download the game). World of Warcraft was my favourite game as my cousins also played with me and completed the content together.</p>
 <p></p>
 <p>I chose RMIT because the IT course had a great reputation and a good campus. I also heard from my friends that RMIT is one of the best universities in Melbourne for IT.</p>
 <p>I expect to learn a more in-depth view of the IT world and I hope that the opportunities that it can give me lead to a bountiful career. I hope to become an expert in Java and other programming languages such as Python, C++ and C#. I also aspire to become a skilled cybersecurity person.</p>
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2>Ideal Job</h2>
 <p></p>
 <a href="https://www.seek.com.au/job/38493168?searchrequesttoken=eda8d8cb-e005-4e4e-8377-8c0fbbbd2c61&type=standout">Seek Website Link</a>
@@ -27,7 +27,7 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
  
 <p>I will need to improve my skills in JavaScript and Python greatly and start to understand how cybersecurity works but using one of my IT electives next year to study it in greater detail. I will then try to do an industry cybersecurity course(SANS) in order to learn the advanced methods of penetration testing and how it works in the job industry. I am also interested in doing a course in Ethical Hacking as I believe it would help greatly in the cyber security field.
 </p> 
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2> Person Profile </h2>
  <p>The result of my Myers-Briggs test was ENFJ-A(Extraversion, Intuition, Feeling, Judgement). I believe this is reasonably accurate as I am certainly more extraverted than introverted and enjoy spending time with my friends in person and keeping up with what is happening in their lives. Being more extroverted can be a bit of a distraction though when you need to settle down and get work done as you are wondering what else you could be doing with your friends. I do think I rely on intuition and my gut feeling to make decisions as I want to make sure something feels right before I decide to investigate further. So the test was interesting and worthwhile for anyone to get some ideas about how their mind works. </p>
  
@@ -47,7 +47,7 @@ The Skills I would need for this job is a high level of JavaScript, Objective C 
 <p>The results of these tests give me a good idea of how I should work within a team as it shows how I do well in some areas and also tells me where I have weaknesses. 
 The results tell me that I am more of a leader than a follower as I like to take initiative and take order in what I’m doing. I also learn better visually rather than through auditory which helps me better understand how I learn.
 When forming a team I should now consider these newly identified traits, as I believe it would help me develop my skills and to become a better person. </p>
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
 <h2> Project Idea </h2>
 
 <h3>Overview</h3>
@@ -89,7 +89,7 @@ The first focus of this application will be aimed at how to reduce basic threats
 
 <h3>Outcome </h3>
 <p>The original problem I encountered was needing to download software online and not being able to determine if the website is legitimate or not and whether I am just loading malicious software onto my computer. The impact that this Application will have is to provide a solution for people to better protect themselves and support safer online behaviours. Extensions to the software will also allow easy safety and security testing of what the user is doing online on mainly mobile devices that can be used on the fly. CyberBuddy will help reduce vulnerabilities and encourage better cyber behaviours. Put simply, I wish to stop cybercrime and hackers early enough to be helpful for the many people who lack the technical skills to keep themselves safe.</p>
-<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="100">
+<img src="https://static1.squarespace.com/static/56969bc9bfe873fafd3e8aca/t/5b53cdcaf950b714419f8c49/1532218843693/wavy-line" width="1000" height="50">
  
 
 
